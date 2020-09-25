@@ -146,44 +146,62 @@ for the realization of a larger study.
 
 [1] E. G. G. on RPL, R. Bender Atik, O. B. Christiansen, J. Elson, A. M. Kolte, S. Lewis, S. Middeldorp, W. Nelen,
 B. Peramo, S. Quenby, et al., “Eshre guideline: recurrent pregnancy loss,” 2018.
+
 [2] E. C. Larsen, O. B. Christiansen, A. M. Kolte, and N. Macklon, “New insights into mechanisms behind miscar-
 riage,” BMC medicine, vol. 11, no. 1, p. 154, 2013.
+
 [3] L. Ammon Avalos, C. Galindo, and D.-K. Li, “A systematic review to calculate background miscarriage rates
 using life table analysis,” Birth Defects Research Part A: Clinical and Molecular Teratology, vol. 94, no. 6,
 pp. 417–423, 2012.
+
 [4] A.-M. N. Andersen, J. Wohlfahrt, P. Christens, J. Olsen, and M. Melbye, “Maternal age and fetal loss: popula-
 tion based register linkage study,” Bmj, vol. 320, no. 7251, pp. 1708–1712, 2000.
+
 [5] R. M. Silver and D. Branch, “Sporadic and recurrent pregnancy loss,” Handbook of Clinical Obstetrics: The
 Fetus & Mother, Third Edition, pp. 41–46, 2008.
+
 [6] G.-t. G. No, “The investigation and treatment of couples with recurrent first-trimester and second-trimester
 miscarriage,” April 2011, 2011.
+
 [7] M. M. van den Berg, M. C. van Maarle, M. van Wely, and M. Goddijn, “Genetics of early miscarriage,” Biochim-
 ica et Biophysica Acta (BBA)-Molecular Basis of Disease, vol. 1822, no. 12, pp. 1951–1959, 2012.
+
 [8] C. Robberecht, V. Schuddinck, J.-P. Fryns, and J. R. Vermeesch, “Diagnosis of miscarriages by molecular
 karyotyping: benefits and pitfalls,” Genetics in Medicine, vol. 11, no. 9, p. 646, 2009.
+
 [9] R. Kudesia, M. Li, J. Smith, A. Patel, and Z. Williams, “Rescue karyotyping: a case series of array-based
 comparative genomic hybridization evaluation of archival conceptual tissue,” Reproductive Biology and En-
 docrinology, vol. 12, no. 1, p. 19, 2014.
+
 [10] N. Mathur, L. Triplett, and M. D. Stephenson, “Miscarriage chromosome testing: utility of comparative genomic
 hybridization with reflex microsatellite analysis in preserved miscarriage tissue,” Fertility and sterility, vol. 101,
 no. 5, pp. 1349–1352, 2014.
+
 [11] T. Laisk, A. L. G. Soares, T. Ferreira, J. N. Painter, S. Laber, J. Bacelis, C.-Y. Chen, M. Lepamets, K. Lin, S. Liu,
 et al., “The genetic architecture of sporadic and recurrent miscarriage,” bioRxiv, p. 575167, 2019.
+
 [12] N. Pereza, S. Ostojić, M. Kapović, and B. Peterlin, “Systematic review and meta-analysis of genetic association
 studies in idiopathic recurrent spontaneous abortion,” Fertility and sterility, vol. 107, no. 1, pp. 150–159, 2017.
+
 [13] I. Filges and J. M. Friedman, “Exome sequencing for gene discovery in lethal fetal disorders–harnessing the
 value of extreme phenotypes,” Prenatal diagnosis, vol. 35, no. 10, pp. 1005–1009, 2015.
+
 [14] G. Nilsen, K. Liestøl, P. Van Loo, H. K. M. Vollan, M. B. Eide, O. M. Rueda, S.-F. Chin, R. Russell, L. O.
 Baumbusch, C. Caldas, et al., “Copynumber: efficient algorithms for single-and multi-track copy number seg-
 mentation,” BMC genomics, vol. 13, no. 1, p. 591, 2012.
+
 [15] J. R. Vermeesch, C. Melotte, G. Froyen, S. Van Vooren, B. Dutta, N. Maas, S. Vermeulen, B. Menten, F. Spele-
 man, B. De Moor, et al., “Molecular karyotyping: array cgh quality criteria for constitutional genetic diagnosis,”
 Journal of Histochemistry & Cytochemistry, vol. 53, no. 3, pp. 413–422, 2005.
+
 [16] E. Garrison and G. Marth, “Haplotype-based variant detection from short-read sequencing,” arXiv preprint
 arXiv:1207.3907, 2012.
+
 [17] D. E. Larson, H. J. Abel, C. Chiang, A. Badve, I. Das, J. M. Eldred, R. M. Layer, and I. M. Hall, “svtools:
 population-scale analysis of structural variation,” bioRxiv, p. 494203, 2018.
+
 [18] W. McLaren, L. Gil, S. E. Hunt, H. S. Riat, G. R. Ritchie, A. Thormann, P. Flicek, and F. Cunningham, “The
 ensembl variant effect predictor,” Genome biology, vol. 17, no. 1, p. 122, 2016.
+
 [19] K. Wang, M. Li, and H. Hakonarson, “Annovar: functional annotation of genetic variants from high-throughput
 sequencing data,” Nucleic acids research, vol. 38, no. 16, pp. e164–e164, 2010.
