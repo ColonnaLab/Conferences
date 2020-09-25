@@ -1,4 +1,4 @@
-##Identification of genomic variants responsible for pregnancy loss: a pilot study
+# Identification of genomic variants responsible for pregnancy loss: a pilot study
 
 Silvia Buonaiuto 1,2∗ , Imma Di Biase 3∗ , Valentina Aleotti 4∗ , Gianluca Damaggio 1,5 , Palmira D’Ambrosio 3 ,
 Oriana Catapano 3 , Gabriella Esposito 3 , Marco Chierici 6 , Madhuri Pulijala 7 , Qasim Ayub 7 , Ce-
@@ -15,7 +15,7 @@ Bruno Kessler, Povo (Trento), Italy ; 7 Monash University Malaysia Genomics Faci
 Bandar Sunway ; 8 University of California, Santa Cruz, US ; 8 Wellcome Sanger Institute, Hinxton, UK .
 1
 
-Introduction
+## Introduction
 Pregnancy Loss (PL) is the spontaneous termination of pregnancy confirmed by at least two positive
 human chorionic gonado-trophin (b-hCGs) in the serum or urine or by ultrasound or histology (miscar-
 riage). Recurrent Pregnancy Loss (RPL) is the loss of two or more pregnancies before 24 weeks of
@@ -50,7 +50,7 @@ from six samples. While the full predictive model is still under development, we
 deleterious variants based on simple criteria identified homozygous non-synonymous mutations shared
 by three samples, showing the potential of developing the full project.
 
-Methods
+## Methods
 Data and sample collection
 The project relies on a collection of 194 samples of which 96 are pregnancy loss (PL) and 98 are induced
 abortions. Each sample includes fetal DNA extracted from chorionic villi, maternal DNA, and the mother’s
@@ -78,7 +78,7 @@ tated with the prediction of their functional impact using Variant Effect Predic
 Filtering of variants was done using custom Python/R scripting, publicly available on the project reposi-
 tory https://github.com/ezcn/grepl .
 
-Results
+## Results
 We first demonstrate that our PL data set complies with the standards of PL described in the literature
 and hence can be used to investigate genetic mutations causing embryonic death. Gestational age at
 pregnancy termination, calculated as the interval between the date in which the pregnancy termination
@@ -123,7 +123,7 @@ results identify a number of putatively detrimental mutations. Among those, thre
 mozygous missense mutations in the AHNAK2 cancer-related gene, coding a cytoplasmic nucleoprotein
 whose high expression is associated with negative prognosis of several cancers.
 
-Conclusions
+## Conclusions
 We explored possibilities tested feasibility of a study for the identification of novel genomic variants caus-
 ing pregnancy loss based on the integration of state of the art methodology for genomic analysis with
 existing methods for genetic testing in PL.
@@ -142,7 +142,7 @@ sample size.
 In conclusion, the pilot study described here represents a milestone and provides essential indications
 for the realization of a larger study.
 
-References
+## References
 
 [1] E. G. G. on RPL, R. Bender Atik, O. B. Christiansen, J. Elson, A. M. Kolte, S. Lewis, S. Middeldorp, W. Nelen,
 B. Peramo, S. Quenby, et al., “Eshre guideline: recurrent pregnancy loss,” 2018.
