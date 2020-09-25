@@ -4,16 +4,28 @@ Silvia Buonaiuto 1,2∗ , Imma Di Biase 3∗ , Valentina Aleotti 4∗ , Gianluca
 Oriana Catapano 3 , Gabriella Esposito 3 , Marco Chierici 6 , Madhuri Pulijala 7 , Qasim Ayub 7 , Ce-
 sare Furlanello 6 , Erik Garrison 8 , Nicole Soranzo 9 , Michele Rubini 4 , Sebastiano Di Biase 3 , and
 Vincenza Colonna 1
-∗
-equal contribution
-National Research Council, Institute of Genetics and Biophysics Adriano Buzzati-Traverso, Napoli, Italy ;
-2
-Department of Environmental, Biological and Pharmaceutical Sciences and Technologies, University of
-Campania Luigi Vanvitelli, Caserta, Italy ; 3 MeriGen Research s.r.l., Napoli, Italy ; 4 University of Ferrara,
-Ferrara, Italy ; 5 Department of Biology, University of Naples Federico II, Naples, Italy ; 6 FBK - Fondazione
-Bruno Kessler, Povo (Trento), Italy ; 7 Monash University Malaysia Genomics Facility, School of Science,
-Bandar Sunway ; 8 University of California, Santa Cruz, US ; 8 Wellcome Sanger Institute, Hinxton, UK .
-1
+
+∗equal contribution
+
+1. National Research Council, Institute of Genetics and Biophysics Adriano Buzzati-Traverso, Napoli, Italy ;
+
+2. Department of Environmental, Biological and Pharmaceutical Sciences and Technologies, University of
+Campania Luigi Vanvitelli, Caserta, Italy; 
+
+3. MeriGen Research s.r.l., Napoli, Italy; 
+
+4. University of Ferrara,
+Ferrara, Italy; 
+
+5. Department of Biology, University of Naples Federico II, Naples, Italy; 
+
+6. FBK - Fondazione Bruno Kessler, Povo (Trento), Italy; 
+
+7. Monash University Malaysia Genomics Facility, School of Science,
+Bandar Sunway; 
+
+8. University of California, Santa Cruz, US; 8. Wellcome Sanger Institute, Hinxton, UK .
+
 
 ## Introduction
 Pregnancy Loss (PL) is the spontaneous termination of pregnancy confirmed by at least two positive
