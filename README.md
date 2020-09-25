@@ -7,5 +7,5 @@
 |20200909| 20200912 | [Festival della Comunicazione](http://www.festivalcomunicazione.it/ospiti-2020/) | *Homo sapiens*: essere in pochi| [Presentation](pres/20200912CamogliColonna.pdf), [Video](https://youtu.be/KC4wnTLw0H8)|
 |2020 | 2020 | [Biology of genomes]() | Deciphering genetic causes of idiopathic pregnancy loss from an embryonic perspective | [Abstract](abs/Biology-of-Genomes.md) |
 |2020 | 2020 | [Eshre]() | Identification of genomic variants responsible for pregnancy loss: a pilot study | [Abstract](abs/ESHRE.md) |
-|112019 | 112019 | [NETTAB-BBCC]() | Identification of genomic variants responsible for pregnancy loss: a pilot study | [Abstract](abs/NETTAB-BBCC) |
+|112019 | 112019 | [NETTAB-BBCC]() | Identification of genomic variants responsible for pregnancy loss: a pilot study | [Abstract](abs/NETTAB-BBCC.md) |
 |26092019 | 26092019 | [AGI]() | Genomics of pregnancy loss| [Abstract](abs/ESHRE.md) |
