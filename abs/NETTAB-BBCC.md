@@ -1,5 +1,5 @@
-Identification of genomic variants responsible for pregnancy
-loss: a pilot study
+##Identification of genomic variants responsible for pregnancy loss: a pilot study
+
 Silvia Buonaiuto 1,2∗ , Imma Di Biase 3∗ , Valentina Aleotti 4∗ , Gianluca Damaggio 1,5 , Palmira D’Ambrosio 3 ,
 Oriana Catapano 3 , Gabriella Esposito 3 , Marco Chierici 6 , Madhuri Pulijala 7 , Qasim Ayub 7 , Ce-
 sare Furlanello 6 , Erik Garrison 8 , Nicole Soranzo 9 , Michele Rubini 4 , Sebastiano Di Biase 3 , and
