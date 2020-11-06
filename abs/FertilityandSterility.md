@@ -1,4 +1,5 @@
 # GENOMICS ANALYSIS OF MATERNAL EXOMES REVEALS NEW CANDIDATE GENES AND PATHWAYS FOR THE DIAGNOSIS AND PREDICTION OF RECURRENT PREIMPLANTATION EMBRYO ARREST IN IVF CYCLES
+
 Semra Kahraman, MD, Fulya Gokdagli Sagir, MD, Beril Yuksel, MD, Murat Cetinkaya, M.D., PhD, Meral Gavaz, MSc, Burcu Kara, BSc, Mesut Yesil, MSc, Gunkut Akar, MSc
 Silvia Buonaiuto, BSc, Gianluca Damaggio, MS, Marco Fabiani, PhD, Adriano De Marino, PhD, Vincenza Colonna, PhD, Carlos Simon Prof, MD, Antonio Capalbo, PhD, Semra Kahraman, MD, Fulya Gokdagli Sagir, MD
 Beril Yuksel, MD, Vincenza Colonna, PhD, Carlos Simon Prof, MD, Antonio Capalbo, PhD
