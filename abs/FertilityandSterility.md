@@ -4,6 +4,8 @@ Semra Kahraman, MD, Fulya Gokdagli Sagir, MD, Beril Yuksel, MD, Murat Cetinkaya,
 Silvia Buonaiuto, BSc, Gianluca Damaggio, MS, Marco Fabiani, PhD, Adriano De Marino, PhD, Vincenza Colonna, PhD, Carlos Simon Prof, MD, Antonio Capalbo, PhD, Semra Kahraman, MD, Fulya Gokdagli Sagir, MD
 Beril Yuksel, MD, Vincenza Colonna, PhD, Carlos Simon Prof, MD, Antonio Capalbo, PhD
 
+DOI:https://doi.org/10.1016/j.fertnstert.2020.08.668
+
 1. Istanbul Memorial Sisli Hospital, Istanbul, Turkey;
 2. Institute of Genetics and Biophysics,National Research Council (CNR), Naples, Italy; 
 3. Igenomix, Marostica,Italy; 
