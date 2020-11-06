@@ -15,7 +15,9 @@ DOI:https://doi.org/10.1016/j.fertnstert.2020.08.668
 OBJECTIVE: The aim of our study was to discover whether genomic analysis of maternal exomes is capable of identifying new target genes to improve
 infertility diagnosis in cases with recurrent preimplantation developmental
 embryo arrest.
+
 DESIGN: Genetic analysis.
+
 MATERIALS AND METHODS: The study was conducted at Istanbul Memorial Hospital ART and Reproductive Genetics Unit between December 2018-November 2019 in cooperation with Igenomix, Italy. Ten women, five
 with consanguinity history, four being the offspring of first-cousin marriage with a history of recurrent embryo developmental failure in multiple IVF cycles were recruited. WES was performed (Agilent SureSelect whole-exome
 capture and Illumina sequencing technology). Variant calling against the reference genome GRCh38 was done using Freebayes and identified on average 436k high quality variants per samples. According to Ensembl classification 2.8% are expected to have high (0.25%) or moderate (2.56%)
