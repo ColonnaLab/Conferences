@@ -2,6 +2,7 @@
 
 |DateStart| DateEnd| Conference |Title |  Material |
 |---------|--------| ---------- |---------- |--------|
+|20201116 | 20201118 | [BBCC](https://www.bbcc-meetings.it/program/) | Population genomics analyses on pangenome graphs  | [Abstract], [Presentation](https://f1000research.com/slides/9-1338)
 |20201018 | 20201018 | [Fertility and Sterility](https://www.fertstert.org/article/S0015-0282(20)31422-9/fulltext) | Genomics analysis of maternal exomes Reveals new candidate genes and pathways for the diagnosis and prediction of recurrent preimplantation embryo arrest in IVF cycles  | [Abstract](abs/FertilityandSterility.md), [PDF](abs/FertilityandSterility.pdf)|
 |20200921 | 20200923 | [T2THPRC-Virtual Conference](https://www.t2t-hprc-2020conference.com/login/?redirect_to=https%3A%2F%2Fwww.t2t-hprc-2020conference.com%2F) | Easy-and-Efficient-Variation-Graphs | [Poster](pos/Adam-Novak-Adam-M.-Novak-Easy-and-Efficient-Variation-Graphs-compressed-1.png)|
 |20200921 | 20200923 | [T2THPRC-Virtual Conference](https://www.t2t-hprc-2020conference.com/login/?redirect_to=https%3A%2F%2Fwww.t2t-hprc-2020conference.com%2F) | Scalable-variant-detection-in-pangenome-models | [Abstract](abs/Scalable-variant-detection-in-pangenome-models.md), [Poster](pos/Scalable-variant-detection-in-pangenome-models-Poster.png), [Blog](https://gsocgraph.blogspot.com/2020/08/final-week-recap-of-my-gsoc-experience.html)|
