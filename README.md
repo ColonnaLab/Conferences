@@ -2,7 +2,7 @@
 
 |DateStart| DateEnd| Conference |Title |  Material |
 |---------|--------| ---------- |---------- |--------|
-|2020125 | 2020125 | [ConfDip-IGB]() | Genomics to fight the emerging COVID19 pandemic| [Abstract](abs/Damaggio20ConfDipCNR_ENG.md)
+|20201205 | 20201205 | [ConfDip-IGB]() | Genomics to fight the emerging COVID19 pandemic| [Abstract](abs/Damaggio20ConfDipCNR_ENG.md)
 |20201117 | 20201117 | [Cancer-Research](https://cancerres.aacrjournals.org/content/80/22_Supplement/PO-048) | Lack of L1CAM increases tumorigenicity, stemness and tumor fibrosis in pancreatic ductal adenocarcinoma| [Abstract](abs/Cancer-Research)
 |20201116 | 20201118 | [ConfDip-IGB]() | Prioritization of causative genomic variants in miscarried embryos from idiopathic pregnancy losses| [Abstract](abs/Buonaiuto20ConfDipCNR_ENG.md)
 |20201111 | 20201111 | [BBCC](https://www.bbcc-meetings.it/program/) | Population genomics analyses on pangenome graphs  | [Abstract], [Presentation](https://f1000research.com/slides/9-1338)
