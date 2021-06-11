@@ -2,7 +2,7 @@
 
 |DateStart| DateEnd| Conference |Title |  Material |
 |---------|--------| ---------- |---------- |--------|
-|2021-05-11 | 2021-05-14 | [The Biology of Genomes](https://meetings.cshl.edu/meetings.aspx?meet=GENOME&year=21) |The PanGenome Graph Builder| [Abstract](abs/BiologyofGenomes2021.md)
+|2021-05-11 | 2021-05-14 | [The Biology of Genomes](https://meetings.cshl.edu/meetings.aspx?meet=GENOME&year=21) |The PanGenome Graph Builder| [Abstract,](abs/BiologyofGenomes2021.md) [Poster](pos/BoG2021_ThePanGenomeGraphBuilder_Poster_AndreaGuarracino.pdf)
 |2021-04-12 | 2021-04-14 | [ASET-2021: Global Webinar on Applied Science, Engineering and Technology](https://www.globalscientificguild.com/applied-science-webinar/index.php) | Lack of L1CAM drives tumorigenicity, stemness and tumor fibrosis inpancreatic ductal adenocarcinoma| [Abstract](abs/ASET-2021.md)
 |2020-12-05 | 2020-12-05 | [ConfDip-IGB]() | Genomics to fight the emerging COVID19 pandemic| [Abstract](abs/Damaggio20ConfDipCNR_ENG.md)
 |2020-11-17 | 2020-11-17 | [Cancer-Research](https://cancerres.aacrjournals.org/content/80/22_Supplement/PO-048) | Lack of L1CAM increases tumorigenicity, stemness and tumor fibrosis in pancreatic ductal adenocarcinoma| [Abstract](abs/Cancer-Research.md)
