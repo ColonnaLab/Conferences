@@ -2,6 +2,11 @@
 
 |DateStart| DateEnd| Conference |Title |  Material |
 |---------|--------| ---------- |---------- |--------|
+
+|2021-101 | 2021-09-24| [SIBioC](https://bvent.biomedia.net/gestionale/documenti/evento/3065/programma.pdf) |Utilità dell'analisi genetica nel tumore del testicolo| [Abstract,](abs/trio_sibioc.md)
+
+
+
 |2021-09-21 | 2021-09-24| [AGI](https://agi2021.centercongressi.com/home.php) |A pangenome for the expanded BXD family of mice| [Abstract,](abs/AGI2021_APangenomeForTheExpBXDfamOfMice_Abstract.pdf) [Poster](pos/AGI_2021_poster.pdf)
 |2021-05-11 | 2021-05-14 | [The Biology of Genomes](https://meetings.cshl.edu/meetings.aspx?meet=GENOME&year=21) |The PanGenome Graph Builder| [Abstract,](abs/BiologyofGenomes2021.md) [Poster](pos/BoG2021_ThePanGenomeGraphBuilder_Poster_AndreaGuarracino.pdf)
 |2021-04-12 | 2021-04-14 | [ASET-2021: Global Webinar on Applied Science, Engineering and Technology](https://www.globalscientificguild.com/applied-science-webinar/index.php) | Lack of L1CAM drives tumorigenicity, stemness and tumor fibrosis inpancreatic ductal adenocarcinoma| [Abstract](abs/ASET-2021.md)
