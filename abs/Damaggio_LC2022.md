@@ -1,11 +1,10 @@
+Detection of endogenous CAG instability through Nanopore sequencing of the Huntington Exon1.
+
 Gianluca Damaggio1,2; Dario Besusso, Martina Zobel, Maria Lidia Mignogna,  Ilaria Campus, Andrea Cossu, Elena Cattaneo and Vincenza Colonna3
 
 1Dipartimento di Bioscienze, Università degli Studi di Milano, Milan, Italy.
 Istituto Nazionale di Genetica Molecolare “Romeo ed Enrica Invernizzi”, Milan, Italy.
-
 2 University of Naples Federico II
-…..
-…….
 3 National Research Council, Institute of Genetics and Biophysics, Naples, Italy
 
 Huntington’s disease (HD) is a neurodegenerative disorder characterized by progressive involuntary choreiform movements, behavioral, cognitive and psychiatric disturbances. The mean age of onset is 35 to 44 years, and the median survival time is 15 to 18 years after onset. HD occurs worldwide and has a prevalence of   ̴12 per 100’000 people of European ancestry.
