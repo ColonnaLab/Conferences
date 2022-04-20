@@ -2,6 +2,8 @@
 
 |DateStart| DateEnd| Conference |Title |  Material |
 |---------|--------| ---------- |---------- |--------|
+|2022-05-18 | 2022-05-20| [LondonCalling](https://nanoporetech.com/lc22) | Detection of endogenous CAG instability through Nanopore sequencing of the Huntington Exon1 | [Abstract](abs/Damaggio_LC2022.md)
+|2022-05-18 | 2022-05-20| [LondonCalling](https://nanoporetech.com/lc22) | Sequencing of tumoroids derived from colorectal cancer patients, including WGS-strategy | [Abstract](abs/DiMaggio_LC2022.md)
 |2022-02-14 | 2022-02-16| [IECC](https://iecc2022.sciforum.net/) |Unraveling the contribution of L1low cancer cell-derived collagen in chemoresistance and metastasis of pancreatic cancer| [Abstract](abs/IECC.md)
 |2021-12-09 | 2021-12-10| [pgbh2021](https://pgbh2021.pangenome.eu/) |A pangenome for the expanded BXD family of mice| [Abstract](abs/pgbh2021.md)
 |2021-10-11 | 2021-10-13| [SIBioC](https://bvent.biomedia.net/gestionale/documenti/evento/3065/programma.pdf) |Utilità dell'analisi genetica nel tumore del testicolo| [Abstract](abs/trio_sibioc.md)
